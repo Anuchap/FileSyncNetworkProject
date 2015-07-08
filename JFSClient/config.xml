@@ -1,0 +1,5 @@
+<config>
+	<server>localhost</server>
+	<src>c:\a</src>
+	<tar>c:\b</tar>
+</config>

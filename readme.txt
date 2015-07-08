@@ -1,0 +1,1 @@
+java -jar jfs.jar -nogui -quiet -dir c:\a c:\b
